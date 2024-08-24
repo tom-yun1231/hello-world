@@ -33,6 +33,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
   
 </form>
