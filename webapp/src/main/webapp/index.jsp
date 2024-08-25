@@ -5,15 +5,7 @@
     <p> MILLION DOLLAR 100,000,000,000</P>
 <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
-    
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Money</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
@@ -38,7 +30,7 @@
     <br>
    <h1> Let's finish today!!Docker TEST</h1>
    <h1> NEW WORLD </h1>
-   <h1> END of DOCKER ! GOTO THE EKS</h1>
+   <h1> END of DOCKER ! SHOW ME THE MONEY</h1>
 
 
   
